@@ -75,6 +75,7 @@ Proyecto Gestion/
 │   └── Clustering_CostaneraAndina_Equipo2.ipynb
 └── reports/
     └── Contexto del Negocio/                   Documento del caso
+    └── Informe_Gerencial_Costanera_Andina      Informe de Segmentación (PDF y DOCX)
 ```
 
 ## 7. Cómo reproducir el análisis
