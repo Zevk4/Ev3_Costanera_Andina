@@ -1,0 +1,25 @@
+{
+    "proyecto": "Segmentación de clientes - Costanera Andina",
+    "fecha_exportacion": "2026-11-22T22:29:38.824406",
+    "dataset": "Mall Customers.xlsx - muestra de referencia de 200 registros",
+    "advertencia_dataset": "La muestra es una prueba de concepto y no acredita que sean registros reales del Centro Comercial Costanera Andina.",
+    "algoritmo": "KMeans",
+    "numero_clusters": 5,
+    "variables_modelado": [
+        "Annual Income (k$)",
+        "Spending Score (1-100)"
+    ],
+    "n_observaciones": 200,
+    "parametros_modelo": {
+        "init": "k-means++",
+        "n_init": 20,
+        "max_iter": 500,
+        "random_state": 42
+    },
+    "inercia_final": 65.56840815571681,
+    "iteraciones": 4,
+    "k_sugerido_elbow": 5,
+    "k_mejor_silhouette": 5,
+    "silhouette_maximo": 0.554657163111109,
+    "nota_pca": "PCA se utiliza para análisis y visualización; no participa en la asignación de clústeres."
+}

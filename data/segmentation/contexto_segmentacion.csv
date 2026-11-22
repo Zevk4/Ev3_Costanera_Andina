@@ -1,0 +1,201 @@
+﻿row_id,Age,Gender,Education,Marital Status
+0,19,M,High School,Married
+1,21,M,Graduate,Single
+2,20,F,Graduate,Married
+3,23,F,High School,Unknown
+4,31,F,Uneducated,Married
+5,22,F,Graduate,Married
+6,35,F,Unknown,Married
+7,23,F,High School,Unknown
+8,64,M,Uneducated,Single
+9,30,F,Graduate,Single
+10,67,M,Uneducated,Unknown
+11,35,F,Unknown,Married
+12,58,F,College,Single
+13,24,F,Graduate,Unknown
+14,37,M,Graduate,Married
+15,22,M,Unknown,Unknown
+16,35,F,Post-Graduate,Single
+17,20,M,Unknown,Married
+18,52,M,High School,Married
+19,35,F,Graduate,Married
+20,35,M,Doctorate,Divorced
+21,25,M,Graduate,Married
+22,46,F,High School,Married
+23,31,M,Unknown,Single
+24,54,F,Unknown,Married
+25,29,M,Graduate,Single
+26,45,F,High School,Unknown
+27,35,M,Unknown,Married
+28,40,F,Uneducated,Single
+29,23,F,High School,Married
+30,60,M,Unknown,Married
+31,21,F,Uneducated,Married
+32,53,M,Graduate,Married
+33,18,M,College,Married
+34,49,F,Graduate,Married
+35,21,F,College,Single
+36,42,F,Graduate,Married
+37,30,F,High School,Married
+38,36,F,Graduate,Unknown
+39,20,F,Doctorate,Married
+40,65,F,Graduate,Single
+41,24,M,Unknown,Married
+42,48,M,College,Single
+43,31,F,High School,Married
+44,49,F,Graduate,Single
+45,24,F,Uneducated,Single
+46,50,F,Doctorate,Married
+47,27,F,Doctorate,Married
+48,29,F,High School,Married
+49,31,F,College,Single
+50,49,F,Unknown,Married
+51,33,M,Graduate,Married
+52,31,F,High School,Married
+53,59,M,Unknown,Married
+54,50,F,Graduate,Married
+55,47,M,Graduate,Unknown
+56,51,F,Graduate,Single
+57,69,M,Uneducated,Married
+58,27,F,Graduate,Married
+59,53,M,High School,Single
+60,70,M,Unknown,Married
+61,19,M,Graduate,Married
+62,67,F,High School,Divorced
+63,54,F,Post-Graduate,Single
+64,63,M,High School,Single
+65,18,M,Uneducated,Single
+66,43,F,College,Married
+67,68,F,Uneducated,Single
+68,19,M,Graduate,Married
+69,32,F,Doctorate,Married
+70,70,M,Graduate,Single
+71,47,F,Graduate,Married
+72,60,F,Graduate,Unknown
+73,60,F,Uneducated,Married
+74,59,M,College,Single
+75,26,M,Graduate,Single
+76,45,F,Graduate,Single
+77,40,M,Uneducated,Single
+78,23,F,Graduate,Divorced
+79,49,F,Graduate,Married
+80,57,M,Graduate,Married
+81,38,M,Unknown,Unknown
+82,67,M,Unknown,Married
+83,46,F,Graduate,Married
+84,21,F,Graduate,Divorced
+85,48,M,Graduate,Married
+86,55,F,High School,Single
+87,22,F,Uneducated,Single
+88,34,F,High School,Single
+89,50,F,Unknown,Married
+90,68,F,High School,Single
+91,18,M,High School,Single
+92,48,M,Graduate,Single
+93,40,F,Graduate,Single
+94,32,F,Unknown,Married
+95,24,M,Graduate,Married
+96,47,F,Graduate,Married
+97,27,F,Doctorate,Married
+98,48,M,College,Married
+99,20,M,Unknown,Married
+100,23,F,College,Single
+101,49,F,Unknown,Married
+102,67,M,Graduate,Married
+103,26,M,Graduate,Single
+104,49,M,High School,Unknown
+105,21,F,Post-Graduate,Married
+106,66,F,Post-Graduate,Single
+107,54,M,Uneducated,Married
+108,68,M,Unknown,Married
+109,66,M,Unknown,Divorced
+110,65,M,Graduate,Married
+111,19,F,Unknown,Married
+112,38,F,High School,Divorced
+113,19,M,Uneducated,Married
+114,18,F,Graduate,Single
+115,19,F,Graduate,Single
+116,63,F,High School,Unknown
+117,49,F,High School,Single
+118,51,F,Doctorate,Married
+119,50,F,High School,Married
+120,27,M,Graduate,Single
+121,38,F,Doctorate,Married
+122,40,F,High School,Married
+123,39,M,High School,Single
+124,23,F,College,Single
+125,31,F,Graduate,Single
+126,43,M,Graduate,Single
+127,40,M,Graduate,Married
+128,59,M,High School,Single
+129,38,M,Uneducated,Unknown
+130,47,M,Graduate,Married
+131,39,M,Unknown,Married
+132,25,F,Graduate,Married
+133,31,F,Graduate,Married
+134,20,M,Doctorate,Single
+135,29,F,Graduate,Single
+136,44,F,High School,Divorced
+137,32,M,College,Divorced
+138,19,M,College,Married
+139,35,F,Post-Graduate,Single
+140,57,F,High School,Married
+141,32,M,Unknown,Single
+142,28,F,Graduate,Married
+143,32,F,Graduate,Single
+144,25,M,College,Single
+145,28,M,Uneducated,Married
+146,48,M,Graduate,Single
+147,32,F,Graduate,Married
+148,34,F,Graduate,Married
+149,34,M,High School,Married
+150,43,M,High School,Single
+151,39,M,Graduate,Married
+152,44,F,Graduate,Single
+153,38,F,Uneducated,Single
+154,47,F,College,Married
+155,27,F,Unknown,Married
+156,37,M,High School,Single
+157,30,F,Doctorate,Married
+158,34,M,Uneducated,Married
+159,30,F,Graduate,Divorced
+160,56,F,High School,Married
+161,29,F,College,Single
+162,19,M,Uneducated,Married
+163,31,F,Unknown,Divorced
+164,50,M,Uneducated,Married
+165,36,F,Uneducated,Married
+166,42,M,Uneducated,Married
+167,33,F,Uneducated,Married
+168,36,F,Graduate,Single
+169,32,M,High School,Married
+170,40,M,Uneducated,Divorced
+171,28,M,High School,Married
+172,36,M,Unknown,Married
+173,36,M,High School,Married
+174,52,F,High School,Married
+175,30,F,Graduate,Divorced
+176,58,M,Uneducated,Married
+177,27,M,Graduate,Married
+178,59,M,Uneducated,Single
+179,35,M,Uneducated,Married
+180,37,F,Uneducated,Married
+181,32,F,Graduate,Married
+182,46,M,Uneducated,Married
+183,29,F,Graduate,Married
+184,41,F,Graduate,Married
+185,30,M,Uneducated,Single
+186,54,F,Post-Graduate,Single
+187,28,M,College,Single
+188,41,F,High School,Married
+189,36,F,Post-Graduate,Married
+190,34,F,Graduate,Married
+191,32,F,Graduate,Unknown
+192,33,M,Graduate,Married
+193,38,F,Doctorate,Married
+194,47,F,Post-Graduate,Married
+195,35,F,High School,Married
+196,45,F,High School,Unknown
+197,32,M,Uneducated,Married
+198,32,M,High School,Married
+199,30,M,College,Married

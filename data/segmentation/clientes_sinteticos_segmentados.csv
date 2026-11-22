@@ -1,0 +1,21 @@
+﻿CustomerID,Gender,Age,Education,Marital Status,Annual Income (k$),Spending Score (1-100),Cluster
+1,M,39,Uneducated,Divorced,76,26,3
+2,F,19,College,Divorced,114,89,1
+3,M,41,College,Married,28,60,2
+4,M,61,High School,Divorced,109,41,3
+5,M,47,Uneducated,Divorced,62,29,0
+6,F,55,Doctorate,Single,29,15,4
+7,M,19,Uneducated,Married,86,45,3
+8,M,38,Doctorate,Single,92,65,1
+9,M,50,High School,Single,101,89,1
+10,F,29,Graduate,Single,138,71,1
+11,M,39,College,Single,135,9,3
+12,M,61,High School,Single,76,88,1
+13,M,42,College,Single,54,1,4
+14,M,66,Graduate,Single,99,8,3
+15,F,44,Graduate,Married,94,88,1
+16,M,59,High School,Divorced,123,63,1
+17,F,45,Graduate,Single,96,11,3
+18,F,33,Doctorate,Single,125,81,1
+19,F,32,Graduate,Single,67,8,3
+20,M,64,College,Single,38,35,4

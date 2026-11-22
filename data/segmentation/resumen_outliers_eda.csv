@@ -1,0 +1,4 @@
+﻿Variable,Q1 (25%),Q3 (75%),IQR,Límite Inferior,Límite Superior,N° Outliers,% Outliers
+Age,28.75,49.0,20.25,-1.62,79.38,0,0.0
+Annual Income (k$),41.5,78.0,36.5,-13.25,132.75,2,1.0
+Spending Score (1-100),34.75,73.0,38.25,-22.62,130.38,0,0.0
